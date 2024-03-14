@@ -1,0 +1,8 @@
+monai==1.3.0+computecanada
+optuna==3.5.0+computecanada
+pytorch_lightning==2.1.2+computecanada
+tensorboard==2.15.1+computecanada
+torch==2.0.1+computecanada
+torchvision==0.15.2+computecanada
+torchaudio==2.0.2+computecanada
+scikit-learn==1.3.0+computecanada

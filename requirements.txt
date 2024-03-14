@@ -1,0 +1,13 @@
+ipykernel
+matplotlib
+monai==1.3.0
+openpyxl==3.2.1
+optuna==3.5.0
+optuna-dashboard
+pyarrow
+pytorch_lightning==2.1.2
+tbparse
+tensorboard==2.15.1
+torch-tb-profiler
+scikit-learn==1.3.0
+seaborn

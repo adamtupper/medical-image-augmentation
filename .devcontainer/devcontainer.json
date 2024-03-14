@@ -1,0 +1,13 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "workspaceFolder": "/home/developer/workspace",
+    "workspaceMount": "source=remote-workspace-mia,target=/home/developer/workspace,type=volume",
+    "runArgs": [
+        "--gpus=all",
+        "--ipc=host"
+    ],
+    "remoteUser": "developer",
+    "postCreateCommand": "cd /home/developer/workspace && git clone --recursive git@github.com:adamtupper/medical-image-augmentation.git && cd medical-image-augmentation/.devcontainer && bash post_create_script.sh"
+}
