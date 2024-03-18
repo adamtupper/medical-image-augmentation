@@ -1,6 +1,6 @@
 # Analyzing Data Augmentation for Medical Images: A Case Study in Ultrasound Images
 
-This repository is the official implementation of [Analyzing Data Augmentation for Medical Images: A Case Study in Ultrasound Images](https://arxiv.org/abs/XXXX.12345).
+This repository is the official implementation of [Analyzing Data Augmentation for Medical Images: A Case Study in Ultrasound Images](https://arxiv.org/abs/2403.09828).
 
 <p align="center">
   <img src="results/augmentations.png">
