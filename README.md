@@ -105,11 +105,11 @@ If you simply want to re-run our analyses using the raw Tensorboard logs, they c
 If you use this code for your research, please cite our paper!
 
 ```bibtex
-@misc{XXXX.XXXXX,
+@misc{2403.09828,
 Author = {Adam Tupper and Christian Gagné},
 Title = {Analyzing Data Augmentation for Medical Images: A Case Study in Ultrasound Images},
 Year = {2024},
-Eprint = {arXiv:XXX.XXXXX},
+Eprint = {arXiv:2403.09828},
 }
 ```
 
